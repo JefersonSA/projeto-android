@@ -80,7 +80,7 @@ nav > a {
 }
 nav > a:hover {
     background-color: var(--cor3);
-    color: #063d1e
+    color: #063d1e;
 }
 
 main {
@@ -197,5 +197,5 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
-    color: var(--cor1)
+    color: var(--cor1);
 }
